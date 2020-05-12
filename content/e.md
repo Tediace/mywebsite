@@ -4,6 +4,7 @@ date: 2020-05-08T22:31:47+07:00
 draft: false 
 author: "Levi"
 escription: "Example article description"
+menu: main
 categories:
   - "Server"
 tags:
